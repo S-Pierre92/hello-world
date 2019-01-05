@@ -13,7 +13,7 @@ public class MainConversion {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
-		out("Combien de nombre à traduire?");
+		out("Combien de nombre à traduire monsieur?");
 		int size = sc.nextInt(),i;
 		int [] number = new int[size];
 		
