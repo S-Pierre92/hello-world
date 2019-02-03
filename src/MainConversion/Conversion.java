@@ -9,6 +9,7 @@ public class Conversion {
 	private static void out(String chaine)
 	{
 		System.out.print(chaine + "\n");
+		System.out.println("Un changement mon négro");
 	}
 
 	private static String transform(int decimal,int base)
