@@ -9,7 +9,7 @@ public class Conversion {
 	private static void out(String chaine)
 	{
 		System.out.print(chaine + "\n");
-		System.out.println("Un changement mon négro");
+		System.out.println("Un changement de la part du mac dse Deb");
 	}
 
 	private static String transform(int decimal,int base)
@@ -93,8 +93,8 @@ public class Conversion {
 	{
 		Scanner sc = new Scanner(System.in);
 		out("Programme de conversion de base");
-		out("\n1: Décimal -> binaire");
-		out("\n2: Décimal -> hexadécimal");
+		out("\n1: Dï¿½cimal -> binaire");
+		out("\n2: Dï¿½cimal -> hexadï¿½cimal");
 		option = sc.nextInt();
 		
 		while(option != 1 && option != 2)
